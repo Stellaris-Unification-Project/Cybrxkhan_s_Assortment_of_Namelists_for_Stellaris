@@ -1,0 +1,15 @@
+name="Cybrxkhan's Assortment of Namelists for Stellaris"
+tags={
+	"Names"
+	"Namelists"
+	"cybrxkhan"
+	"Variety"
+	"Flavor"
+	"Species"
+	"Tocharians"
+	"random AI"
+	"galaxy generation"
+}
+picture="CANS.jpg"
+supported_version="3.2.*"
+remote_file_id="682691478"
