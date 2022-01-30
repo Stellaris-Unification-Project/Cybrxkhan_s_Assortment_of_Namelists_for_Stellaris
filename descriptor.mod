@@ -11,5 +11,5 @@ tags={
 	"galaxy generation"
 }
 picture="CANS.jpg"
-supported_version="3.2.*"
+supported_version="3.2.2"
 remote_file_id="682691478"
